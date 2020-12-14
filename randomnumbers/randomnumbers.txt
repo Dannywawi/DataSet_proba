@@ -1,0 +1,7 @@
+Se entrega un archivo csv de números generados aleatoriamente (randomnumbers.csv), se le pide graficar un histograma de los datos dados, 
+a partir de este y a su propio análisis compararlo con las distribuciones vistas en clase con parámetros dados por usted, se debe elegir una a su criterio
+y definir sus parámetros.
+
+
+Pauta: 
+distribución uniforme con A=0 y B=1000
