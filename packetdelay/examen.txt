@@ -1,0 +1,14 @@
+Instrucciones:
+
+Este examen consta de la aplicación de la probabilidad y estadística computacional, en este caso las distribuciones de probabilidad vistas en clases. Se
+entregará un set de datos en el archivo (delay.csv), el cual contiene el delay entre paquetes TCP en una red. contiene el delay de 250K de muestras. 
+
+a) Para la aplicación de conocimientos se pide elaborar un histograma del set dado además sacarle los estadígrafos de dispersión y posición.
+
+b) A partir de la pregunta anterior se pide establecer una comparación entre la distribución generada y las vistas en clases, elegir la que se ajuste mejor
+al contexto del problema junto con sus conocimientos y establecer sus parámetros (fit). Esto de tal forma que minimice el error de los datos reales con los teóricos.
+
+Ya teniendo la distribución escogida calcular la probabilidad teórica de que el delay sea menor a 0.3 segundos y la practica según el set de datos y medir su error.
+
+Pauta:
+La distribución teórica que se debería elegir es la Exponencial y tiene un parámetro λ~7.9491, podría ser una normal ya que dan errores similares, pero al no tener valores negativos y medir el tiempo, es mejor hipótesis la exponencial.
