@@ -1,0 +1,15 @@
+El archivo covidchile.csv contiene los datos de los contagiados por covid-19 en chile 
+desde el contagiado 1, se pide graficar un los datos "y " en funcion de los dias "x", 
+a partir de este grafico se pide elaborar una comparacion entre esa funcion y las distribuciones vistas en clase, 
+, para esto usar el escalar de la suma de los casos.
+compararlas y verificar los parametros de las distribuciones y elegir la que mejor se adapte a la curva 
+
+Comparar la distribucion elegida (teorica) y los datos del archivo para ver cuantos casos se esperarian en el dia 250. 
+
+
+
+Pauta 
+
+distribucion normal con:    
+    desviacion estandar aprox. = 35
+    media aprox . = 100
