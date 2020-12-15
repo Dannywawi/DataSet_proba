@@ -1,0 +1,15 @@
+El archivo covidchile.csv contiene los datos de los contagiados por covid-19 en chile 
+desde el contagiado 1, se pide graficar un histograma de la cantidad diaria de contagiados, 
+a partir de este grafico se pide elaborar una comparacion entre esta pdf y las vistas en clase, 
+verificar los parametros de las distribuciones propuestas y elegir la que mejor se adapte a la curva
+con mejores parametros posibles.
+
+Comparar la distribucion elegida (teorica) y los datos del archivo para comparar la probabilidad de que un dia cualquiera 
+tenga mas de 2000 inffectados. 
+
+
+
+Pauta 
+distribucion normal con:    
+    desviacion estandar aprox. = 430
+    media aprox . = 1588
